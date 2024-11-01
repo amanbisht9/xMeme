@@ -1,6 +1,8 @@
 # xMeme
 A Meme Stream Page where users can post memes by providing their name, a caption for the meme and the URL for the meme image as input. The page should retrieve and display the latest 100 posted Memes (names + meme images + caption).
 
+![Backend structure](amanbisht9-ME_BUILDOUT_XMEME_JAVA-master/screenshots//s1.png)
+
 This file can be used as a template for initializing and running spring projects.
 
 What's included: 
